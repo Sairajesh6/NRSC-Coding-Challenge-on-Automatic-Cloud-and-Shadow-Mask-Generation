@@ -1,0 +1,1 @@
+# NRSC-Coding-Challenge-on-Automatic-Cloud-and-Shadow-Mask-Generation
